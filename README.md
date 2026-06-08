@@ -2,7 +2,9 @@
 
 **Contribution Number:** 1887
 **Student:** Jude Surin
+
 **Issue:** [Display most "famous" projects in the website](https://github.com/release-plz/release-plz/issues/1887)
+
 **Status:** Phase I Complete
 
 ---
